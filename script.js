@@ -8,7 +8,7 @@ const gifStages = [
     
     "https://media.tenor.com/BvlQdl0TAeIAAAAi/cute.gif",               // 6 very devastated
     
-    "https://media.tenor.com/1pId72nvliQAAAAj/toory-dudu-bubu-osita.gif",  // 7 crying runaway
+    "https://media.tenor.com/jP-BJaYGX6QAAAAi/bubu-and-dudu-bubu-hit-dudu.gif",  // 7 crying runaway
     "https://media.tenor.com/9sadt8tWJuUAAAAi/lp.gif"
 ]
 
