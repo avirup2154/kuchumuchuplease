@@ -11,12 +11,12 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "test 1  🤔",
-    "test 2 ",
-    "test 3 🤔",
-    "test 4 😢",
-    "test 5 💔",
-    "test 5 ",
+    "Are you absolutely positively sure you are going to say no? 🤔",
+    "Billo please... 🥺 Emni korte nai...",
+    "Emni korle kintu sasuri maa r dorja dhore darie jabo... 🤔",
+    "I will be very sad jodi ami baraat e na nachte pari ... 😢",
+    "Please??? 💔",
+    "Emni korle kintu ami Bobo nie tara korbo...",
     "Last chance!! er pore kintu poisa nebo... 😭",
     "You can't catch me anyway... with your chotu chootu legs😜"
 ]
