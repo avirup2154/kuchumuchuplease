@@ -11,14 +11,14 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Are you absolutely positively positive? 🤔",
+    "Billo please... 🥺 Emni korte nai...",
+    "Emni korle kintu sasuri maa r dorja dhore darie jabo... 🤔",
+    "I will be very sad jodi ami baraat e na nachte pari ... 😢",
     "Please??? 💔",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Emni korle kintu ami Bobo nie tara korbo...",
+    "Last chance!! er pore kintu poisa nebo... 😭",
+    "You can't catch me anyway... with your chotu chootu legs😜"
 ]
 
 const yesTeasePokes = [
