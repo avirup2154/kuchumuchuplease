@@ -1,5 +1,5 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
+    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal 
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
     "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
@@ -11,12 +11,12 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you absolutely positively positive? 🤔",
-    "Billo please... 🥺 Emni korte nai...",
-    "Emni korle kintu sasuri maa r dorja dhore darie jabo... 🤔",
-    "I will be very sad jodi ami baraat e na nachte pari ... 😢",
-    "Please??? 💔",
-    "Emni korle kintu ami Bobo nie tara korbo...",
+    "test 1  🤔",
+    "test 2 ",
+    "test 3 🤔",
+    "test 4 😢",
+    "test 5 💔",
+    "test 5 ",
     "Last chance!! er pore kintu poisa nebo... 😭",
     "You can't catch me anyway... with your chotu chootu legs😜"
 ]
