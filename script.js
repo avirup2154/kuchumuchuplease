@@ -13,8 +13,8 @@ const noMessages = [
     "No",
     "Are you absolutely positively sure you are going to say no? 🤔",
     "Billo please... 🥺 Emni korte nai...",
-    "Emni korle kintu sasuri maa r dorja dhore darie jabo... 🤔",
-    "I will be very sad jodi ami baraat e na nachte pari ... 😢",
+    "Bad Billo!! No!  🤔",
+    "Mrs Chonkz.. U want maar??? ... 😢",
     "Please??? 💔",
     "Emni korle kintu ami Bobo nie tara korbo...",
     "Last chance!! er pore kintu poisa nebo... 😭",
@@ -109,7 +109,7 @@ function handleNoClick() {
     swapGif(gifStages[gifIndex])
 
     // Runaway starts at click 5
-    if (noClickCount >= 5 && !runawayEnabled) {
+    if (noClickCount >= 7 && !runawayEnabled) {
         enableRunaway()
         runawayEnabled = true
     }
